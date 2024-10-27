@@ -1,4 +1,4 @@
-// función que genere y devuelva 
+// función que genere y devuelva una excusa cada vez que actualize la pagina
 let who = ['El perro','Mi abuela','Mi tortuga','Mi canario', 'Mi gato'];
 let what = ['se comió','aplastó','robó','rompió', 'ensució'];
 let when = ['antes de clases','justo cuando terminé','mientras almorzaba','mientras yo rezaba'];
